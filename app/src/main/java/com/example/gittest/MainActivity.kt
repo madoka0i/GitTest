@@ -12,6 +12,7 @@ class MainActivity : AppCompatActivity() {
 
         Log.d("debug", "onCreate()")
         Log.d("debug", "あああああ")
+        Log.d("debug", "feature/p1 変更3")
     }
 
     // feature/p2ブランチ作成

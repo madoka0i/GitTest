@@ -11,6 +11,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         Log.d("debug", "onCreate()")
+        Log.d("debug", "あああああ")
     }
 
     // feature/p2ブランチ作成

@@ -11,4 +11,6 @@ class MainActivity : AppCompatActivity() {
     }
 
     // developブランチ作成
+
+    // feature/p1ブランチ作成
 }

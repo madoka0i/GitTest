@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
+    // feature/p2ブランチ作成
+
     // developブランチ作成
 }
